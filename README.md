@@ -8,7 +8,7 @@ Chỉ chạy client
 cd client
 npm run serve
 
-Chỉ dạy server
+Chỉ chạy server
 npm run server
 
 Production
